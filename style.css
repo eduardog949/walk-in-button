@@ -1,0 +1,43 @@
+@font-face {
+    font-family: breadstore;
+    src: url(Bread\ Store.ttf);
+}
+
+body {
+    background-image: url("storefront.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: breadstore, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: px;
+}
+
+
+
+
+}
+
+#save-el{
+    font-size: 2rem;
+}
